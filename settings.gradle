@@ -1,0 +1,1 @@
+include ':app', ':autocompete_adapter'
